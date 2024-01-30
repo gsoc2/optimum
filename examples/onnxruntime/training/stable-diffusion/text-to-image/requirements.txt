@@ -5,3 +5,4 @@ git+https://github.com/huggingface/diffusers
 ftfy
 tensorboard
 Jinja2
+aiohttp>=3.9.2 # not directly required, pinned by Snyk to avoid a vulnerability
