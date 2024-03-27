@@ -10,3 +10,4 @@ nltk
 py7zr
 torch >= 1.9.0
 torch-ort
+onnx>=1.16.0 # not directly required, pinned by Snyk to avoid a vulnerability
